@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "403903550687",
+    "firebase_url": "https://virtualcommunity-b8798.firebaseio.com",
+    "project_id": "virtualcommunity-b8798",
+    "storage_bucket": "virtualcommunity-b8798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403903550687:android:bbb68ebfa0c988bd24056a",
+        "android_client_info": {
+          "package_name": "com.sourcey.materiallogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403903550687-b50h4sgq2bce3ves98htbhdoe2520eq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkDockVJKFGUXozAQLheJjsE9_zbYXK_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403903550687-b50h4sgq2bce3ves98htbhdoe2520eq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
